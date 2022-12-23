@@ -1,0 +1,1 @@
+This script will help remove desktop icons using PowerShell.

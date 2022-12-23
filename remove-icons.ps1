@@ -1,0 +1,11 @@
+WRITE-HOST "*************************************"
+WRITE-HOST "* DELETING DESKTOP SHORTCUTS *"
+WRITE-HOST "*************************************"
+
+Remove-Item "C:\Users\Public\Desktop\AVG AntiVirus FREE.lnk"
+Remove-Item "C:\Users\Public\Desktop\Acrobat Reader DC.lnk"
+Remove-Item "C:\Users\Public\Desktop\Google Chrome.lnk"
+WRITE-HOST " "
+WRITE-HOST " "
+WRITE-HOST "Complete... "
+WRITE-HOST " "
